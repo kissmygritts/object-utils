@@ -1,0 +1,19 @@
+{
+  "name": "@kissmygritts/object-utils",
+  "version": "0.1.0",
+  "description": "A collection of object utilities I use often enough to create a package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "tap --reporter=list"
+  },
+  "author": "Mitchell Gritts <mitchell@gritts.me> (https://mitchellgritts.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kissmygritts/object-utils"
+  },
+  "license": "Unlicense",
+  "devDependencies": {
+    "tap": "^15.0.10"
+  }
+}
