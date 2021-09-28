@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "tap --reporter=list"
+    "test": "tap --reporter=spec"
   },
   "author": "Mitchell Gritts <mitchell@gritts.me> (https://mitchellgritts.com)",
   "repository": {
